@@ -1,0 +1,15 @@
+a
+Daily
+11 0 12 0  mr smithD
+a
+Monthly
+5
+12 0 1 0  mrs SmithM
+
+Onetime
+11 5 11
+1 0 1 30  john smith
+l
+Onetime
+2020 11 2020
+1 0 1 30  john smithO

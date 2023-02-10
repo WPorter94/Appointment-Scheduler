@@ -1,0 +1,5 @@
+Daily
+10 10 11 10 dentist
+Monthly
+10 10 11 10 doctor
+5
